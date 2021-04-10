@@ -19,7 +19,7 @@ import java.util.Locale;
 public class MainActivity extends AppCompatActivity {
 
     String CITY = "delhi,uttam nagar";
-    String API = "API KEY";
+    String API = "25bc90a1196e6f153eece0bc0b0fc9eb";
 
     TextView addressTxt, updated_atTxt, statusTxt, tempTxt, temp_minTxt, temp_maxTxt, sunriseTxt,
             sunsetTxt, windTxt, pressureTxt, humidityTxt;
