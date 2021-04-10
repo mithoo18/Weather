@@ -17,10 +17,14 @@ $ git remote remove origin
 
 ### How it looks 
 
-| Home Screen                                                                                                                          |                                                                                                                          | Logo
-|
-| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://github.com/mithoo18/Weather/blob/master/gitimg/1.jpg" style="zoom:25%;" /> | <img src="https://github.com/mithoo18/Weather/blob/master/gitimg/2.jpg" style="zoom:25%;" /> | <img src="" style="zoom:25%;" /> |
+<table>
+<tr>
+  <td><img align="left" src="https://github.com/mithoo18/Weather/blob/master/gitimg/1.jpg" alt="Main Screen" /></td>
+
+<td><img align="right" src="https://github.com/mithoo18/Weather/blob/master/gitimg/2.jpg" alt="Logo" /></td>
+</tr>
+</table>
+
 
 #### Developed with ❤ by @Devanshu || mithoo18.
 
