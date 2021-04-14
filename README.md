@@ -15,6 +15,13 @@ $ git remote remove origin
 
 ---
 
+### About Application
+- Technology Used :-Android Studio,Material Design,API,Rest(Retrofit)
+- Feature :- Awesome UI & UX,Used Retrofit Library,Accurate Weather Forecast,
+- 24 Hour Weather Report 
+- Screens:- Splash Screen,Main Screen 
+
+
 ### How it looks 
 
 <table>
